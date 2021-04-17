@@ -1,6 +1,6 @@
 Updated README
 
-fixed #5
+fixed #1
 
 Added documentation
 
