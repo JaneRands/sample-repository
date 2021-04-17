@@ -1,2 +1,3 @@
 some sample text for the demo file
 Simple edit to demo update to remote repo.
+Adding line 3 to remote repo to create a conflict and require a merge.
