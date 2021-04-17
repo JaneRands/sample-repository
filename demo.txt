@@ -1,2 +1,3 @@
 some sample text for the demo file
 Simple edit to demo update to remote repo.
+This is going to create a conflict when I edit this same line with different text in the remote repo.
